@@ -1,4 +1,4 @@
-/This file is used to make a trained model smaller so it can be used in an Android app
+#This file is used to make a trained model smaller so it can be used in an Android app
 
 import tensorflow as tf
 from keras.models import load_model
